@@ -1,7 +1,9 @@
-# **OAuth 2.0 project**
+# *OAuth 2.0 project*
 
-This project automates API testing using **REST Assured**, focusing on authorization, data validation, and response verification. It includes test cases that cover scenarios such as token generation, endpoint access, and data comparisons.
-In this project, Json parsing is done by using pojo classes deserialisation concept.
+- This project automates API testing using **REST Assured**, focusing on authorization, data validation, and response verification.
+- It includes test cases that cover scenarios such as token generation, endpoint access, and data comparisons.
+- In this project, Json parsing is done by using pojo classes deserialisation concept.
+
 ---
 
 ## **Features**
