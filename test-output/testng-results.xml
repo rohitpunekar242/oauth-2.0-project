@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-17T00:19:14 IST" name="Default suite" finished-at="2024-11-17T00:19:26 IST" duration-ms="11815">
+    <groups>
+    </groups>
+    <test started-at="2024-11-17T00:19:14 IST" name="Default test" finished-at="2024-11-17T00:19:26 IST" duration-ms="11815">
+      <class name="tests.TestCases">
+        <test-method signature="get_access_token()[pri:1, instance:tests.TestCases@7e8dcdaa]" started-at="2024-11-17T00:19:14 IST" name="get_access_token" finished-at="2024-11-17T00:19:21 IST" duration-ms="7416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_access_token -->
+        <test-method signature="access_endpoint()[pri:2, instance:tests.TestCases@7e8dcdaa]" started-at="2024-11-17T00:19:22 IST" name="access_endpoint" finished-at="2024-11-17T00:19:23 IST" duration-ms="1639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- access_endpoint -->
+        <test-method signature="webAutomation_details()[pri:3, instance:tests.TestCases@7e8dcdaa]" started-at="2024-11-17T00:19:23 IST" name="webAutomation_details" finished-at="2024-11-17T00:19:24 IST" duration-ms="953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webAutomation_details -->
+        <test-method signature="webAutomation_prices()[pri:4, instance:tests.TestCases@7e8dcdaa]" started-at="2024-11-17T00:19:24 IST" name="webAutomation_prices" finished-at="2024-11-17T00:19:25 IST" duration-ms="947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webAutomation_prices -->
+        <test-method signature="validate_courseTitles()[pri:5, instance:tests.TestCases@7e8dcdaa]" started-at="2024-11-17T00:19:25 IST" name="validate_courseTitles" finished-at="2024-11-17T00:19:26 IST" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_courseTitles -->
+      </class> <!-- tests.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
