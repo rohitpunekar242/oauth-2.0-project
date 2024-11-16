@@ -62,7 +62,7 @@
 
 ---
 
-### **Test Output**
+## **Test Output**
 - **The test execution will provide**
 
 1. Confirmation of access token retrieval.
@@ -73,7 +73,7 @@
 
 ---
 
-### **Test Execution Report**
+## **Test Execution Report**
 
 ![TestNg report](https://github.com/rohitpunekar242/oauth-2.0-project/blob/master/Test_Result.png)
 
