@@ -9,6 +9,7 @@
 ## **Features**
 - Automated access token request.
 - Validation of API responses using token-based authorization.
+- Using de-serialisation method for parsing the nested json by using POJO classes.
 - Extraction and verification of course details.
 - Comparison of actual vs. expected data from the API.
 
@@ -68,7 +69,7 @@
 1. Confirmation of access token retrieval.
 2. Validation status of LinkedIn ID.
 3. List of web automation course titles and prices.
-4. Price validation for specific courses.
+4. Successful extraction & validation of response data from the POJO classes.
 5. Comparison results for actual vs. expected course titles.
 
 ---
